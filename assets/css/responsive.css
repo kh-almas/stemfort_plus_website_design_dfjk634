@@ -1,0 +1,53 @@
+@media (min-width: 576px) {
+    .video_tu{
+        width: 550px;
+        height: 380px;
+    }
+}
+
+@media (min-width: 768px) {
+    .work_img{
+        width: 50%;
+    }
+
+    .benefits_img{
+        width: 55%;
+    }
+
+    .power_cat_img{
+        width: 50%;
+    }
+
+    .power_cat_text{
+        font-size: 16px;
+    }
+
+    section{
+        margin: 60px 0;
+    }
+}
+
+@media (min-width: 992px) {
+    .work_img{
+        width: 100%;
+    }
+
+    .video_tu{
+        width: 720px;
+        height: 480px;
+    }
+
+    section{
+        margin: 80px 0;
+    }
+}
+
+@media (min-width: 1200px) {
+    .hero{
+        background-size: 100%;
+    }
+}
+
+@media (min-width: 1400px) {
+
+}
